@@ -1,5 +1,6 @@
 # GitPanPun
 test create git repo in organ
+suradet 
 พี่บววววบบบบบบ
 <<<<<<< HEAD
 วิทย์
